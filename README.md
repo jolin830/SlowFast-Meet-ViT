@@ -1,6 +1,7 @@
 # [2024 ICME Grand challenge]:Spatiotemporal-Action-Localization-on-Chaotic-World-dataset 
 We have implemented Track # 1 for ICME 2024: Spatial Action Localization on Chaotic World dataset. We decompose the STAL task into two stages: object detection and action recognition. Our mAP on the validation set reaches **26.62%**, and if we directly use officially provided  **chaos_test_1fps.csv** as the results of object detection, the mAP reaches **42.28%**.
 
+## News
 All **checkpoints** or **other files** that need to be downloaded have been moved from **Google Drive** to **Baidu Drive** and can be downloaded from the **following link**:
 [BaiDu Drive, Password: ICME](https://pan.baidu.com/s/1lY7r5imEoSba9TTAldVljg)</r>
 
